@@ -1,5 +1,5 @@
-name = Todd
-language = Ruby
+name = "Todd"
+language = "Ruby"
 
 def introduction(name)
   puts "Hi, my name is #{name}."
